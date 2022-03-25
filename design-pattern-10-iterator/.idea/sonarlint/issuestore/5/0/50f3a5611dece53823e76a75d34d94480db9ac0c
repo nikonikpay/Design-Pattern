@@ -1,0 +1,21 @@
+
+S
+java:S1172"8Remove this unused method parameter "withNewConstructs".(â–Ç¨ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(™–õýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûËËÃþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(æ”öýÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Å¨——ýÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ûËËÃþÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(þ§ðÈúÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Å¨——ýÿÿÿÿ
+\
+java:S1126D"AReplace this if-then-else statement by a single return statement.(§Û•Âùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(­Œ„ëýÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(¾ÆØÈúÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ü»áùÿÿÿÿ
+J
+java:S1066Z"/Merge this if statement with the enclosing one.(ë¨Û¹úÿÿÿÿ

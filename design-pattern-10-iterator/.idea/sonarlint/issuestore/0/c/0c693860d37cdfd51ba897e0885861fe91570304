@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûËËÃşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ
+{
+java:S1319"eThe type of "menus" should be an interface such as "List" rather than the implementation "ArrayList".(‘Ğ
