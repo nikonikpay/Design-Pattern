@@ -1,0 +1,12 @@
+
+X
+java:S18541"=Remove this useless assignment to local variable "bpmNumber".(ÃÃßùûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“¡ÑÐþÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.( Î”ô
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¾Á÷û
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(®º¨æüÿÿÿÿ
+o
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¯è¡
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¯è¡
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ

@@ -1,0 +1,16 @@
+
+^
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(£¯Ì 
+_
+java:S32528"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÂšÇÿ
+N
+java:S1611A"3Remove the parentheses around the "event" parameter(ƒùø´þÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(äáÑ‚
+N
+java:S1611L"3Remove the parentheses around the "event" parameter(ïÌûøÿÿÿÿ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(ÖÏ¦
+N
+java:S1611V"3Remove the parentheses around the "event" parameter(ó‘Ç©üÿÿÿÿ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(¯ý©
+S
+java:S1854˜"7Remove this useless assignment to local variable "bpm".(ñŠ½üÿÿÿÿ
